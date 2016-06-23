@@ -1,0 +1,6 @@
+{
+  "name": "Learngit",
+  "tagline": "test",
+  "body": "Git is a distributed version control system.\r\nGit is free software distributed under the GPL.\r\nGit has a mutable index called stage.\r\nGit tracks changes of files.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
